@@ -53,13 +53,13 @@ python tag_image.py ./test/
 ```bash
 ~/Development/openai 20s
 ❯ python brace-tag-image.py ./test
-
+![img8](./test/img8.jpeg)
 処理中: ./test/img8.jpeg
 付与されたタグ: この画像に該当するタグは以下です：
 - #顔貌写真
 - #真顔
 - #正面
-
+![img5](./test/img5.jpeg)
 処理中: ./test/img5.png
 付与されたタグ: 該当するタグは次の通りです:
 - #口腔内写真
