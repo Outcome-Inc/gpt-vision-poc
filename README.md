@@ -49,6 +49,46 @@ python tag_image.py ./path/to/folder
 python tag_image.py ./test/
 ```
 #### 🔍 **サンプル画像のテスト結果**
+<figure>
+  <img src="https://github.com/user-attachments/assets/e291d01b-c1d6-4912-961d-c602f12e5883" alt="Image" width="35%" />
+  <figcaption>img1</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/1d467551-34f6-4853-9f8e-6ff914da5ceb" alt="Image" width="35%" />
+  <figcaption>img2</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/ae60dbaf-830a-4432-8e73-690b0e317c6a" alt="Image" width="35%" />
+  <figcaption>img3</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/0faaf4a1-6e44-4acd-be94-f28395e491bb" alt="Image" width="35%" />
+  <figcaption>img4</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/c29b5038-1819-4b3f-923a-7fd44864aefe" alt="Image" width="35%" />
+  <figcaption>img5</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/b0fee161-e6b3-4b09-b9c6-646d97a138c7" alt="Image" width="35%" />
+  <figcaption>img6</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/01eed552-7ab2-401f-9ac6-b33541378cc0" alt="Image" width="35%" />
+  <figcaption>img7</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/5f5161c5-4f54-4c5a-9c53-d374960f72b1" alt="Image" width="35%" />
+  <figcaption>img8</figcaption>
+</figure>
+
 
 ```bash
 ~/Development/openai 20s
