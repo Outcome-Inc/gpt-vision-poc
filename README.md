@@ -91,7 +91,7 @@ python tag_image.py ./test-images/
 
 モデル4o-mini結果
 ```bash
-~/Development/openai 20s
+~/Development/openai
 ❯ python brace-tag-image.py ./test-images
 ![img8](./test/img8.jpeg)
 処理中: ./test/img8.jpeg
