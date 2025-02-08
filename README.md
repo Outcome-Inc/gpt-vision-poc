@@ -70,7 +70,7 @@ python tag_image.py ./test-images/
 </figure>
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/c29b5038-1819-4b3f-923a-7fd44864aefe" alt="Image" width="35%" />
+  <img src="https://github.com/user-attachments/assets/c1923126-5b13-4eba-af59-1da01135fbe6" alt="Image" width="35%" />
   <figcaption>img5</figcaption>
 </figure>
 
@@ -158,7 +158,9 @@ python tag_image.py ./test-images/
 ## 📝 **出力例**
 ```bash
 処理中: ./test/img7.jpeg
-付与されたタグ: #自然, #動物
+付与されたタグ:
+- #顔貌写真
+- #真顔
 ```
 
 ---
