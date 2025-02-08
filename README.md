@@ -46,7 +46,7 @@ python tag_image.py ./path/to/folder
 ```
 リポジトリに含まれるtestフォルダの写真でテストも可能です。
 ```bash
-python tag_image.py ./test/
+python tag_image.py ./test-images/
 ```
 #### 🔍 **サンプル画像のテスト結果**
 <figure>
@@ -89,10 +89,10 @@ python tag_image.py ./test/
   <figcaption>img8</figcaption>
 </figure>
 
-
+モデル4o-mini結果
 ```bash
 ~/Development/openai 20s
-❯ python brace-tag-image.py ./test
+❯ python brace-tag-image.py ./test-images
 ![img8](./test/img8.jpeg)
 処理中: ./test/img8.jpeg
 付与されたタグ: この画像に該当するタグは以下です：

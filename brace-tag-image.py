@@ -40,6 +40,7 @@ def tag_image(image_path_or_url):
 
         # OpenAI APIへリクエスト
         response = client.chat.completions.create(
+            # models:gpt-4o, gpt-4o-mini, and gpt-4-turbo,o1
             model="gpt-4o-mini",
             messages=[
                 {

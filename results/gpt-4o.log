@@ -1,0 +1,24 @@
+❯ python brace-tag-image.py ./test-images
+処理中: ./test-images/img8.jpeg
+付与されたタグ: この画像に該当するタグは「#顔貌写真」と「#正面」です。
+
+処理中: ./test-images/img5.png
+付与されたタグ: #口腔内写真, #上顎
+
+処理中: ./test-images/img4.png
+付与されたタグ: #口腔内写真, #上顎
+
+処理中: ./test-images/img3.png
+付与されたタグ: #口腔内写真, #右側
+
+処理中: ./test-images/img2.png
+付与されたタグ: #口腔内写真, #右側
+
+処理中: ./test-images/img1.png
+付与されたタグ: #口腔内写真, #正面, #上顎, #下顎
+
+処理中: ./test-images/img6.jpeg
+付与されたタグ: #顔貌写真, #右側
+
+処理中: ./test-images/img7.jpeg
+付与されたタグ: この画像に該当するタグは次のとおりです: #顔貌写真, #笑顔, #正面
